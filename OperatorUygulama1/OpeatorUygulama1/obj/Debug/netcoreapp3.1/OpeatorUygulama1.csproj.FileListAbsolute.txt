@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\bin\Debug\netcoreapp3.1\OpeatorUygulama1.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\bin\Debug\netcoreapp3.1\OpeatorUygulama1.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\bin\Debug\netcoreapp3.1\OpeatorUygulama1.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\bin\Debug\netcoreapp3.1\OpeatorUygulama1.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\bin\Debug\netcoreapp3.1\OpeatorUygulama1.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\bin\Debug\netcoreapp3.1\OpeatorUygulama1.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\OpeatorUygulama1\OpeatorUygulama1\obj\Debug\netcoreapp3.1\OpeatorUygulama1.genruntimeconfig.cache
